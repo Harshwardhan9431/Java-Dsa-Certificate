@@ -1,2 +1,1 @@
-# Java-Dsa-Certificate
-[Java Certificate.pdf](https://github.com/Harshwardhan9431/Java-Dsa-Certificate/files/11304992/Java.Certificate.pdf)
+
